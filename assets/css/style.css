@@ -13,7 +13,7 @@ body{
   height: 40px;
 }
 
-.logo-text{
+.logo_text{
   font-size: 25px;
   display: inline-block;
 }
@@ -48,4 +48,12 @@ h2{
 .row-right{
   display: inline-block;
   color: grey;
+}
+
+footer{
+  text-align: center;
+}
+
+#name-footer{
+  font-size: 25px;
 }
